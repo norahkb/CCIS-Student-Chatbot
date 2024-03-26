@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Levels</title>
+    <style>
+     *{
+        box-sizing: border-box;
+        padding:0;
+        margin: 0;
+      }
+      body{
+          padding:2em;
+          display:flex;flex-direction: column;min-height: 100vh;
+          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+      section{
+          padding:2em;
+          width: 100%;
+      }
+      h1{
+        color: #1979fa;
+      }
+      main{
+        display: flex;
+          gap:48px;
+      }
+      .all{
+          max-height: 90vh;
+          overflow: auto;
+      }
+      .all ul{
+          display: flex;
+          flex-wrap: wrap;
+          gap:2em;
+      }
+      form{
+          display: flex;
+          flex-direction: column;
+          gap:1em;
+          padding:1em 0em;
+      }
+
+      a{
+        text-decoration: none;color:inherit;
+      }
+      button{
+        background:#1979fa;
+        color:white;padding:.5em;
+        border:none;
+        cursor:pointer;
+      }
+      input{
+        width:100%;
+        padding:.5em;
+      }
+      li{
+        display: grid;
+        gap: 8px;
+      }
+      footer{
+margin-top: auto;color:rgb(205, 205, 205);
+}
+
+nav {
+
+  display: flex;
+
+  justify-content: space-around;
+
+  align-items: center;
+
+  min-height: 8vh;
+
+  background-color: #1979fa;
+
+  font-family: "Montserrat", sans-serif;
+
+}
+.nav-links {
+
+  display: flex;
+
+  justify-content: space-around;
+
+  width: 30%;
+
+}
+
+.nav-links li {
+
+  list-style: none;
+
+}
+
+.nav-links a {
+
+  color: white;
+
+  text-decoration: none;
+
+  letter-spacing: 3px;
+
+  font-weight: bold;
+
+  font-size: 14px;
+
+  padding: 14px 16px;
+
+}
+
+.nav-links a:hover:not(.active) {
+
+  background-color: lightseagreen;
+
+}
+
+.nav-links li a.active {
+
+  background-color: #4caf50;
+
+}
+      </style>
+  </head>
+  <body>
+  <nav>
+
+      <div class="heading">
+
+        <h2>Admin Panel</h2>
+
+      </div>
+
+      <ul class="nav-links">
+
+        <li><a  href="http://127.0.0.1:5000/stats">Stats</a></li>
+
+        <li><a href="http://127.0.0.1:5000/course">Courses</a></li>
+
+        <li><a href="http://127.0.0.1:5000/instructor">Instructors</a></li>
+        <li><a class="active" href="http://127.0.0.1:5000/level">Level</a></li>
+        <li><a href="http://127.0.0.1:5000/majorplan">MajorPlan</a></li>
+        <li><a href="http://127.0.0.1:5000/section">Section</a></li>
+        <li><a href="http://127.0.0.1:5000/technicalsupport">TechSupport</a></li>
+
+        <li><a href="http://127.0.0.1:5000/intents">Intenets</a></li>
+
+      </ul>
+
+    </nav>
+    <h1>Levels Page</h1>
+    <main>
+      <section class="all">
+        <h2>All Levels :</h2>
+        <ul>
+          {% for level in level %}
+          <li>
+            <p>{{level}}</p>
+          <button>
+            <a href="http://127.0.0.1:5000/level/delete/{{level.id}}/">delete</a>
+          </button>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      
+  <section>
+    <h2>Add level  here</h2>
+    <form action="http://127.0.0.1:5000/level/" method="post">
+         <div>
+      <label for="level_code">level_code</label>
+      <br>
+      <input type="text" name="level_code"
+            placeholder="level_code"
+            value="{{ request.form['level_code'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="level_number">level_number</label>
+      <br>
+      <input type="text" name="level_number"
+            placeholder="level_number"
+            value="{{ request.form['level_number'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="level_major">level_major</label>
+      <br>
+      <input type="text" name="level_major"
+            placeholder="level_major"
+            value="{{ request.form['level_major'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="no_of_optional_courses">no_of_optional_courses</label>
+      <br>
+      <input type="text" name="no_of_optional_courses"
+            placeholder="no_of_optional_courses"
+            value="{{ request.form['no_of_optional_courses'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="no_of_mandatory_courses">no_of_mandatory_courses</label>
+      <br>
+      <input type="text" name="no_of_mandatory_courses"
+            placeholder="no_of_mandatory_courses"
+            value="{{ request.form['no_of_mandatory_courses'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="leve_courses_names">leve_courses_names</label>
+      <br>
+      <input type="text" name="leve_courses_names"
+            placeholder="leve_courses_names"
+            value="{{ request.form['leve_courses_names'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="leve_courses_numbers">leve_courses_numbers</label>
+      <br>
+      <input type="text" name="leve_courses_numbers"
+            placeholder="leve_courses_numbers"
+            value="{{ request.form['leve_courses_numbers'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="min_term_hours">min_term_hours</label>
+      <br>
+      <input type="text" name="min_term_hours"
+            placeholder="min_term_hours"
+            value="{{ request.form['min_term_hours'] }}">
+      </input>
+    </div>
+   <div>
+      <label for="max_term_hours">max_term_hours</label>
+      <br>
+      <input type="text" name="max_term_hours"
+            placeholder="max_term_hours"
+            value="{{ request.form['max_term_hours'] }}">
+      </input>
+    </div>
+
+      <button type="submit">Submit</button>
+  </form>
+<h2>bulk upload</h2>
+      <form action = "/levelBulkUpload" method = "post" enctype="multipart/form-data">
+        <input type="file" name="file" />
+        <input type = "submit" value="Upload">
+    </form>  </section>
+    </main>
+    </body>
+</html>
+

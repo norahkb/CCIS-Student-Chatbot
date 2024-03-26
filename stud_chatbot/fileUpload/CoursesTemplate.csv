@@ -1,0 +1,11 @@
+course_name,course_number,course_description,course_requirements,course_dependent,major,expected_term,no_of_hours,course_type,no_of_available_sections
+test1,111,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test2,112,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test3,113,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test4,114,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test5,115,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test6,116,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test7,117,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test8,118,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test9,119,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5
+test10,120,txt tx txt txt,NA,NA,MJ_MCA_2202,test,10,IS,5

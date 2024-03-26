@@ -1,0 +1,186 @@
+first_name,middle_name,last_name,position,course_number,section_number,email,office_telephone_number,office_floor,office_number
+Hashemi,Ahmed,bin Nasser,Professor,21717,171,hamnasser@imamu.edu.sa,112586731,3,A-110
+Issa,bin Abdullah,Al-Issa,"Associate Professor, Dean of the College of Computer Science",19899,175,aleisa@imamu.edu.sa,112581616,3,A-111
+Muhammad,Abdulmoneim,Al-Zawawy,Associate Professor,16725,170,mzawawy@imamu.edu.sa,112354543,1,A-112
+Walid,bin Ahmed,Al-Roudhan,Associate Professor,21473,172,warodhan@imamu.edu.sa,112809095,1,A-113
+Khaled,Abdulaziz,Al-Shalfan,Associate Professor,17929,173,kashalfan@imamu.edu.sa,113743278,2,A-114
+Abdullah,bin Abdulaziz,Al-Shadi,Associate Professor,19489,174,asheddy@imamu.edu.sa,112321454,2,A-115
+Ahmed,bin Awad,Al-Ghamdi,Assistant Professor,18239,175,ahmedalghamdi@imamu.edu.sa,114574321,2,A-116
+Amal,Suleiman,Al-Saif,Assistant Professor,21720,371,asmalsaif@imamu.edu.sa,112098743,3,A-117
+Aram,Saleh,Al-Sidrani,Assistant Professor,17998,373,assedrani@imamu.edu.sa,112468904,2,A-118
+Badr,Muhammad,Al-Bishr,Assistant Professor,18829,171,bmbesher@imamu.edu.sa,112785432,3,A-119
+Tahani,Fahad,Al-Balawi,Assistant Professor,20194,372,tfalbalawi@imamu.edu.sa,114325765,3,A-120
+Hamad,Mohammed,bin Suleih,Assistant Professor,16834,374,hmbinsalleeh@imamu.edu.sa,112309241,1,A-121
+Reza,Rahman,Qazi,Assistant Professor,18150,374,ruqazi@imamu.edu.sa,112309242,2,A-122
+Raad,bin Abdullah,Al Turki,Assistant Professor,17173,373,ralturki@imamu.edu.sa,112309243,3,A-123
+Sarah,Omar,Al-Hamoud,Assistant Professor,17889,372,sohumoud@imamu.edu.sa,112309244,2,A-124
+Saad,Hamad,Al-Abad,Assistant Professor,18466,174,salabbad@imamu.edu.sa,112309245,2,A-125
+Sultan,Saud,Al-Qahtani,Assistant Professor,19027,173,ssalqahtani@imamu.edu.sa,112309246,1,A-126
+Sultan,Noman,Muhammad,Assistant Professor,21196,175,snmohammed@imamu.edu.sa,112309247,3,A-127
+Sewar,Abdulfattah,Al-ruqiq,Assistant Professor,18493,175,sarekik@imamu.edu.sa,112309248,2,A-128
+Talal,bin Saad,Al Balawi,Assistant Professor,21932,174,TSAlbalawi@imamu.edu.sa,112309249,1,A-129
+Adel,bin Ibrahim,Al Salem,"Assistant Professor, Head of the Computer Science Department",21455,175,aisalem@imamu.edu.sa,112309250,3,A-130
+Abdulrahman,Abdulaziz,Al-Barrak,Assistant Professor,18555,172,aaalbarrak@imamu.edu.sa,112309251,2,A-131
+Abdulrahman,Mohammed,Al-Osaimi,Assistant Professor,20962,175,amalosaimy@imamu.edu.sa,112309252,2,A-132
+Abdulaziz,Ibrahim,Al-Muhaimid,Assistant Professor,19697,171,aialmohimeed@imamu.edu.sa,112309253,3,A-133
+Abdullah,Mohammed,Al-Barrak,Assistant Professor,17806,172,amsbarrak@imamu.edu.sa,112309254,3,A-134
+Abeer,Nafjan,Al-Nafjan,Assistant Professor,17051,371,annafjan@imamu.edu.sa,112309255,1,A-135
+Areeb,Abdullah,Al-Awaishiq,Assistant Professor,19522,372,aaalowisheq@imamu.edu.sa,112309256,3,A-136
+Aladdin,,Ahmed,Assistant Professor,19935,174,asmohamed@imamu.edu.sa,112309257,3,A-137
+Omar,bin Abdulrahman,Al-Aql,Assistant Professor,16714,172,oaalaql@imamu.edu.sa,112309258,3,A-138
+Firas,bin Abdulaziz,Al-jumaah,Assistant Professor,20854,173,faaljumah@imamu.edu.sa,112309259,3,A-139
+Caesar,Abbas,Muhammad,Assistant Professor,21017,175,qaabbas@imamu.edu.sa,112309260,2,A-140
+Mubarak,Murdi,Al-Bathan,Assistant Professor,16892,172,mmalbathan@imamu.edu.sa,112309261,3,A-141
+Muhammad,Abdullah,Al-Jammaz,Assistant Professor,20861,175,majammaz@imamu.edu.sa,112309262,3,A-142
+Muhammad,Hussein,Al-Khatib,Assistant Professor,19512,172,mhalkhatib@imamu.edu.sa,112309263,1,A-143
+Muhammad,Nidaa,Al-Anazi,Assistant Professor,16231,172,alanazi@ccis.imamu.edu.sa,112309264,2,A-144
+Muhammad,Thaeel,Al-Ghanami,Assistant Professor,19762,171,mtalotaibi@imamu.edu.sa,112309265,1,A-145
+Mezna,Rasheed,Al-Mutairi,Assistant Professor,21600,373,mrmutairy@imamu.edu.sa,112309266,3,A-146
+Mustafa,Al-Sayed,Ibrahim,Assistant Professor,20262,371,meibrahim@imamu.edu.sa,112309267,3,A-147
+Maha,Suleiman,Al-Rabiah,Assistant Professor,20520,373,msalrabiah@imamu.edu.sa,112309268,3,A-148
+Milad,Muhammad,Al-Tazghdanti,Assistant Professor,18253,375,mmtezeghdanti@imamu.edu.sa,112309269,2,A-149
+Wejdan,Muhammad,Al-Saeedan,Assistant Professor,18646,373,wmasaeedan@imamu.edu.sa,112309270,1,A-150
+Walid,Abdulaziz,Al-Jandal,Assistant Professor,19885,375,wajandal@imamu.edu.sa,112309271,1,A-151
+Yassin,Muhammad,Dadaa,Assistant Professor,20084,371,ymdaadaa@imamu.edu.sa,112309272,3,A-152
+Alhadi,Suleiman,Abdulqader,Lecturer,18433,372,esabdegader@imamu.edu.sa,112309273,3,A-153
+Ibtisam,Saleh,Al-Jaloud,Lecturer,16574,372,esjaloud@imamu.edu.sa,112309274,2,A-154
+Ibtisam,Muhammad,Al-Aboud,Lecturer,19112,371,emoboud@imamu.edu.sa,112309275,2,A-155
+Ibtisam,Turki,Al-Otaibi,Lecturer,20719,372,etalotaibi@imamu.edu.sa,112309276,2,A-156
+Iman,Abdulhamid,Al-Zaid,Lecturer,16426,371,eazaid@imamu.edu.sa,112309277,1,A-157
+Iman,Muhammad,Al Rashoud,Lecturer,21501,375,emalrashoud@imamu.edu.sa,112309278,3,A-158
+Asma,Badr,Al-Saleh,Lecturer,20994,373,absaleh@imamu.edu.sa,112309279,3,A-159
+Amjad,Muhammad,Al-Afidly,Lecturer,18681,375,amofaidli@imamu.edu.sa,112309280,3,A-160
+Basma,Abdulaziz,Al-Souli,Lecturer,18439,374,basoli@imamu.edu.sa,112309281,3,A-161
+Basma,Suleiman,Al-Qadi,Lecturer,16192,373,bsalqadi@imamu.edu.sa,112309282,2,A-162
+Tasneem,Nasser,Al-Yahya,Lecturer,21348,374,tnalyahya@imamu.edu.sa,112309283,2,A-163
+Hessa,Abdulrahman,Al-Awwad,Lecturer,17417,374,haalawwad@imamu.edu.sa,112309284,3,A-164
+Hanan,Abdulaziz,Al-Souli,Lecturer,16000,373,hsouly@imamu.edu.sa,112309285,1,A-165
+Hayah,Saleh,Al-Muslim,Lecturer,18057,374,hsmuslem@imamu.edu.sa,112309286,1,A-166
+Dania,Abdulrahman,Al Omar,Lecturer,19098,375,daiomar@imamu.edu.sa,112309287,1,A-167
+Dalal,Abdulrazzaq,Al-Duwaila,Lecturer,21449,374,daduwaila@imamu.edu.sa,112309288,3,A-168
+Rawan,Rashid,Al-Busaili,Lecturer,18710,372,rbusayli@imamu.edu.sa,112309289,1,A-169
+Reham,Suleiman,Al Majed,Lecturer,16379,374,rsalmajed@imamu.edu.sa,112309290,1,A-170
+Sarah,Mohammed,Al-Hassan,Lecturer,18050,374,smhasn@imamu.edu.sa,112309291,3,A-171
+Sahar,Omar,Bosaeed,Lecturer,18571,371,Sobosaeed@imamu.edu.sa,112309292,3,A-172
+Suha,Saleh,Al-Abed,Lecturer,21111,375,ssalabed@imamu.edu.sa,112309293,2,A-173
+Suha,Saleh,Al-Thunayan,Lecturer,18627,374,sthunyyan@imamu.edu.sa,112309294,3,A-174
+Shahed,Saleh,Al-Qafari,Lecturer,19121,371,Ssalqefari@imamu.edu.sa,112309295,3,A-175
+Abdulrahman,bin Abdulaziz,Al Rasheed,Lecturer,16419,175,Aairasheed@imamu.edu.sa,112309296,3,A-176
+Abdulrahman,bin Mansour,Aba Hussein,Lecturer,20541,174,abahsain2@imamu.edu.sa,112309297,1,A-177
+Ghada,Mohammed,Al-Osaimi,Lecturer,19581,372,gmosimi@imamu.edu.sa,112309298,1,A-178
+Faten,Saleh,Al-Jaloud,Lecturer,18892,372,fsjaloud@imamu.edu.sa,112309299,2,A-179
+Fatima,Ratian,Al-Anazi,Lecturer,17783,374,frzanazi@imamu.edu.sa,112309300,3,A-180
+Fahad,bin Ibrahim,Al-Muqahm,Lecturer,16202,375,fialmuqhim@imamu.edu.sa,112309301,2,A-181
+Lamia,Mohammed,Al-Abdulkarim,Lecturer,17683,375,lmabdulkarim@imamu.edu.sa,112309302,2,A-182
+Lamis,Abdullah,Al-Hazza,Lecturer,19209,372,lahazzaa@imamu.edu.sa,112309303,3,A-183
+Lina,Saud,Al-Mutairi,Lecturer,19327,372,Lsmutair@imamu.edu.sa,112309304,1,A-184
+Mashael,Ibrahim,Al-Madlej,Lecturer,15811,371,mialmedlej@imamu.edu.sa,112309305,3,A-185
+Madawi,Saqr,Al-Otaibi,Lecturer,16690,373,msalotaibi@imamu.edu.sa,112309306,1,A-186
+Malak,Abdullah,Al-Murshid,Lecturer,19159,374,mamarshad@imamu.edu.sa,112309307,1,A-187
+Manal,Khaled,Al-Sabhan,Lecturer,19157,371,mksabhan@imamu.edu.sa,112309308,1,A-188
+Menan,Muhammad,Al-Muslim,Lecturer,16388,371,mmmusallam@imamu.edu.sa,112309309,1,A-189
+Munira,Abdulrahman,Al-Shibl,Lecturer,17723,373,maalshebel@imamu.edu.sa,112309310,3,A-190
+Mai,Abdullah,Al-Ammar,Lecturer,21178,373,maammar@imamu.edu.sa,112309311,3,A-191
+Nouf,Muhammad,Al-Aloula,Lecturer,17894,374,nmaloula@imamu.edu.sa,112309312,3,A-192
+Huda,Abdulrahman,Al-Muzaini,Lecturer,20019,373,hamozeani@imamu.edu.sa,112309313,2,A-193
+Haifa,Khalil,Al-Dayel,Lecturer,18004,373,hkdayel@imamu.edu.sa,112309314,2,A-194
+Haifa,Abdullah,Al-Aql,Lecturer,21013,373,haagel@imamu.edu.sa,112309315,1,A-195
+Haifa,Hamad,bin Qasim,Lecturer,21015,371,hhkasem@imamu.edu.sa,112309316,1,A-196
+Waad,Muhammad,Al-Hoshan,Lecturer,16639,372,wmaboud@imamu.edu.sa,112309317,3,A-197
+Wafa,Abdullah,Al Rajhi,Lecturer,18339,372,waalrajhi@imamu.edu.sa,112309318,2,A-198
+Walid,bin Muhammad,Al-Nwaisir,Lecturer,20513,373,wmalnuwaiser@imamu.edu.sa,112309319,1,A-199
+Arwa,Abdulrahman,Al-Rumaih,Demonstrator,19495,372,aamalrumaih@imamu.edu.sa,112309320,2,A-200
+Alreem,Abdulrahman,Al-Muharraj,Demonstrator,20692,371,aaalmuhrij@imamu.edu.sa,112309321,2,A-201
+Intisar,Ayed,Al-Anzi,Demonstrator,20127,375,eaalanzi@imamu.edu.sa,112309322,1,A-202
+Areeb,bin Muhammad,Al-Shushan,Demonstrator,20193,371,amalshoshan@imamu.edu.sa,112309323,2,A-203
+Afnan,Abdulrahman,Al-Muammar,Demonstrator,18990,373,aalmoammar@imamu.edu.sa,112309324,2,A-204
+Amjad,Ali,Al-Amr,Demonstrator,17433,372,aamr@imamu.edu.sa,112309325,3,A-205
+Amal,Suleiman,Al-Amr,Demonstrator,20340,374,asalamro@imamu.edu.sa ,112309326,2,A-206
+Basma,Khaled,Al-Otaibi,Demonstrator,19748,371,bkotaibi@imamu.edu.sa ,112309327,2,A-207
+Banan,Abdulaziz,Al-Hadlaq,Demonstrator,21935,372,baalhadlaq@imamu.edu.sa,112309328,1,A-208
+Joza,Faisal,Al-Mutairi,Demonstrator,16725,372,jfmutairy@imamu.edu.sa,112309329,1,A-209
+Hessa,Abdulaziz,Al-jumaah,Demonstrator,16869,372,haaljumah@imamu.edu.sa,112309330,1,A-210
+Khawla,Ibrahim,Al-Abdulkarim,Demonstrator,19358,374,kialabdulkarim@imamu.edu.sa,112309331,1,A-211
+Ziyad,bin Abdullah,Al-Sheikh,Demonstrator,16562,374,zaalshaikh@imamu.edu.sa,112309332,2,A-212
+Sarah,Saeed,Al-Zahrani,Demonstrator,19657,372,ssmalzahrani@imamu.edu.sa,112309333,3,A-213
+Sultan,bin Sharida,Al-Daraa,Demonstrator,20765,372,ssaldera@imamu.edu.sa,112309334,1,A-214
+Shams,Fahad,Al Shammasi,Demonstrator,17615,372,sfalshmasi@imamu.edu.sa,112309335,2,A-215
+Safa,Muhammad,Al-Balaa,Demonstrator,16018,375,smballaa@imamu.edu.sa,112309336,2,A-216
+Abdulaziz,Saad,Al-Jibreen,Demonstrator,16611,173,asjebreen@imamu.edu.sa,112309337,1,A-217
+Abdullah,bin Ahmed,Al-Osaimi,Demonstrator,21766,174,aalosaimi@imamu.edu.sa,112309338,3,A-218
+Abdullah,bin Ibrahim,bin Subaih,Demonstrator,16029,172,abinsabih@imamu.edu.sa,112309339,1,A-219
+Abdullah,Rashid,bin Talib,Demonstrator,21661,172,araltaleb@imamu.edu.sa,112309340,3,A-220
+Abeer,Saad,Al-Shadi,Demonstrator,19421,374,asalsheddi@imamu.edu.sa,112309341,3,A-221
+Faisal,bin Abdulaziz,Al Othman,Demonstrator,20521,372,fabalothman@imamu.edu.sa,112309342,3,A-222
+Misfer,bin Saeed,Al-Dosari,Demonstrator,18068,374,maldosari@imamu.edu.sa,112309343,1,A-223
+Njoud,Fahad,Al Badrani,Demonstrator,17544,374,nfmalbadrani@imamu.edu.sa ,112309344,1,A-224
+Nada,Fahad,Al-Sulaiman,Demonstrator,20894,372,nfalsulaiman@imamu.edu.sa,112309345,3,A-225
+Nuha,Abdullah,Al Rajhi,Demonstrator,20524,371,nalrajhi@imamu.edu.sa,112309346,2,A-226
+Noura,Abdullah,Al-Hussein,Demonstrator,16902,375,naaalhussain@imamu.edu.sa,112309347,3,A-227
+Noura,Saad,Al-Sarran,Demonstrator,16081,371,nsalsaaran@imamu.edu.sa,112309348,3,A-228
+Wateen,Abdullah,Al-Ayadi,Demonstrator,16945,375,waliady@imamu.edu.sa,112309349,2,A-229
+Walaa,Nasser,Al-Sarami,Demonstrator,17022,372,wnalsarami@imamu.edu.sa,112309350,2,A-230
+Abdulraouf,Mirza,Baqi,Professor,24951,376,abbaig@imamu.edu.sa,,3,A-231
+Abdullah,Abdulaziz,Al-Tamim,Professor,15586,377,altameem@imamu.edu.sa,,2,A-232
+Mutlaq,Badr,Al-Otaibi,Professor,21842,376,motaibi@imamu.edu.sa,,2,A-233
+Abdulqadir,Jilani,Sawadgar,Associate Professor,18077,377,aksaudagar@imamu.edu.sa,,2,A-234
+Omar,Abdullah,Al-Shathri,Associate Professor,17405,376,oaalshathry@imamu.edu.sa,,2,A-235
+Mona,Awad,Al-Khattabi,Associate Professor,19692,378,mkhattabi@imamu.edu.sa,,2,A-236
+Ayat,Othman,Ahmed,Assistant Professor,21232,374,aohammed@imamu.edu.sa,,2,A-237
+Badr,Nasser,Al-Jabr,Assistant Professor,18345,376,baljaber@imamu.edu.sa,,2,A-238
+Riyad,Saleh,Al-Makki,Assistant Professor,13439,376,ralmakki@imamu.edu.sa,,2,A-239
+Taher,Abdullah,Al-Zahrani,Assistant Professor,16306,371,talzahrani@imamu.edu.sa,,1,A-240
+Abdulaziz,Abdullah,Al-Sahli,Assistant Professor,14734,372,aaalsahli@imamu.edu.sa,,1,A-241
+Fatima,Muhammad,Al-Turkistani,Assistant Professor,13067,374,fmturkstani@imamu.edu.sa,,3,A-242
+Fahad,Sulaiman,Al-Ayed,Assistant Professor,20826,377,fsalayed@imamu.edu.sa,,3,A-243
+Loujain,Abdullah,Al-Dahsh,Assistant Professor,17984,379,laaldahash@imamu.edu.sa,,1,A-244
+Majid,Abdulaziz,Al-Braithen,Assistant Professor,17912,373,maalbraithen@imamu.edu.sa,,1,A-245
+Muhammad,Ahmed,Al-Khathami,Assistant Professor,24122,376,maalkhathami@imamu.edu.sa,,2,A-246
+Muhammad,Badruddin,Khan,Assistant Professor,19063,373,mbkhan@imamu.edu.sa,,1,A-247
+Muhammad,Saad,Saleh,Assistant Professor,18071,378,msmsaleh@imamu.edu.sa,,1,A-248
+Madaher,Alhaq,Abu Al-hasanat,Assistant Professor,15894,372,mhhasanat@imamu.edu.sa,,3,A-249
+Mudi,Abdulhamid,Al-Sheikh,Assistant Professor,25724,378,masheikh@imamu.edu.sa,,2,A-250
+Maysoon,Suleiman,Al-Dakheel,Assistant Professor,24163,375,msdkhail@imamu.edu.sa,,3,A-251
+Hisham,Rashid,Al-Talib,Assistant Professor,15027,377,hraltaleb@imamu.edu.sa,,3,A-252
+Walid,Muhammad,Rasheeda,Assistant Professor,18035,375,wmrashideh@imamu.edu.sa,,2,A-253
+Yasser,Qutb,Qutb,Assistant Professor,17319,378,ykkotb@imamu.edu.sa,,2,A-254
+Badr,Suleiman,Al-Samaanir,Lecturer,24436,375,bsalsamani@imamu.edu.sa,,2,A-255
+Paul,,Nikolaidze,Lecturer,15841,373,pnikolaidis@imamu.edu.sa,,1,A-256
+Salem,Mohammed,Al-Janaah,Lecturer,23169,377,ssaljanah@imamu.edu.sa,,2,A-257
+Saad,Nasser,Al-Tamimi,Lecturer,24854,375,snaltamimi@imamu.edu.sa,,3,A-258
+Abdullah,Ahmed,Abu Abaah,Lecturer,18402,377,aaabuabat@imamu.edu.sa,,1,A-259
+Abdulsalem,Ali,Al-Madani,Lecturer,22681,376,almadani@imamu.edu.sa,,2,A-260
+Abdulaziz,Asouj,Al-Shammari,Lecturer,20383,377,aashammari@imamu.edu.sa,,1,A-261
+Abdulaziz,Mani,Al-Manea,Lecturer,18449,378,amalmanea@imamu.edu.sa,,1,A-262
+Mansour,Saleh,Al-Mansour,Lecturer,15494,373,malmansour@imamu.edu.sa,,2,A-263
+Hisham,Abdulrahman,Al-Haleel,Lecturer,16220,379,halhulayyil@imamu.edu.sa,,3,A-264
+Wael,Juma,Obaidullah,Lecturer,17155,371,wobaidallah@imamu.edu.sa,,3,A-265
+Youssef,Ahmed,Al-Dariwish,Lecturer,17346,372,yadriweesh@imamu.edu.sa,,2,A-266
+Aseel,Abdulmohsen,Al-Dawoud,Lecturer,12971,376,aasdawood@imamu.edu.sa,,2,A-267
+Albatoul,Saleh,Al-Thunayan,Lecturer,16864,374,asthanyan@imamu.edu.sa,,2,A-268
+Alkhansa,Abdulrahman,Abu Hashim,Lecturer,15718,377,aaabuhashem@imamu.edu.sa,,1,A-269
+Alanoud,Marzouq,Al-Otaibi,Lecturer,25712,377,amdotibi@imamu.edu.sa,,1,A-270
+Amir,Muhammad,Talib,Assistant Professor,26848,376,amtmohamed@imamu.edu.sa,,2,A-270
+Fahad,Omar,Al-Omari,Assistant Professor,50769,372,foalomary@imamu.edu.sa,,1,A-271
+Muhammad,Ahmed,Muharram,Assistant Professor,61506,372,mamoharrum@imamu.edu.sa,,2,A-272
+Mandour,Muhammad,Ibrahim,Assistant Professor,33741,374,mimohammed@imamu.edu.sa,,1,A-273
+Muhanna,Maqbool,Muslim,Assistant Professor,26157,376,mmmuslam@imamu.edu.sa,,3,A-274
+Areen,Nasser,Al-Yahya,Lecturer,26556,375,analyahya@imamu.edu.sa,,3,A-275
+Abdullah,Muhammad,Al-Sadiq,Lecturer,57307,378,amabdallah@imamu.edu.sa,,3,A-276
+Iman,Abdulaziz,Al-Tamim,Lecturer,60191,376,eaaltameem@imamu.edu.sa,,2,A-277
+Tadani,Nasser,Al-Yahya,Lecturer,58307,376,talyahya@imamu.edu.sa,,1,A-278
+Rabaa,Othman,Al-Nashwan,Lecturer,12453,377,ralnashwan@imamu.edu.sa,,3,A-279
+Sarah,Abdullah,Al-Salama,Lecturer,14818,377,saialsalamah@imamu.edu.sa,,2,A-280
+Shaden,Muhammad,Al-Ismail,Lecturer,24335,371,smalismail@imamu.edu.sa,,3,A-281
+Adel,Abdulrahman,Al-Daoud,Lecturer,60661,374,aasaldawood@imamu.edu.sa,,3,A-282
+Lamia,Abdulaziz,Al-Khuraiji,Lecturer,28418,372,laalkhariji@imamu.edu.sa,,1,A-283
+Mona,Ibrahim,Al-Awad,Lecturer,55428,377,malawadh@imamu.edu.sa,,2,A-284
+Nafla,Saleh,Al-Rumayyan,Lecturer,12939,374,nsalrumayyan@imamu.edu.sa,,1,A-285
+Hind,Saleh,Al-Mahmoud,Lecturer,26944,378,hsaalmahmoud@imamu.edu.sa,,2,A-286
+Dima,Abdulaziz,Al-Nahit,Demonstrator,32658,373,daalnuhait@imamu.edu.sa,,3,A-287
+Reem,Yahya,Al-Asiri,Demonstrator,42399,373,ryassiri@imamu.edu.sa,,3,A-288
+Duha,Nayef,Al-Qahtani,Demonstrator,37751,371,dnmalqahtani@imamu.edu.sa,,3,A-289
+Ghada,Mohammed,Al-Shabana,Demonstrator,30693,373,galshabana@imamu.edu.sa,,3,A-290
+Muhammad,Abdulwahab,Al-Hamdan,Demonstrator,12812,372,mamalhamdan@imamu.edu.sa,,2,A-291
+Wad,Majid,Al-Ateeq,Demonstrator,55793,373,wmateeq@imamu.edu.sa,,2,A-292
+Waad,Nasser,Al-Mishari,Demonstrator,40645,372,wnalmeshary@imamu.edu.sa,,1,A-293

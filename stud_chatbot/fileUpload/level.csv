@@ -1,0 +1,28 @@
+level_code,level_number,level_major,no_of_optional_courses,no_of_mandatory_courses,leve_courses_names,leve_courses_numbers,min_term_hours,max_term_hours
+CS1,1,CS,0,4,"  Introduction to Computer Programming, Applied Calculus 1,  The Holy Qur'an (1),  English 1"," CS150, MATH113, ENG140, QUR101",12,18
+CS2,2,CS,0,5," Digital Design,  Cyber Security and Ethics,  Introduction to Probability & Statistics, The Holy Qur?an (2), General Physics"," CS125, CS180, SAT111, QUR151, PHY104;12;18",12,18
+CS3,3,CS,0,4," Discrete Structures 2, Applied Calculus 2, Computer Architecture, The Holy Quran(3)"," CS205, MATH114, CS228, QUR201",12,18
+CS4,4,CS,0,4," Design and Analysis of Algorithms, Software Engineering 1, Operating Systems, Linear Algebra and Differential Equations, The Holy Quran(4), ENG141"," CS216, CS290, CS222, CS227, QUR251",12,18
+CS5,5,CS,0,4," Software Engineering 2, Introduction to Databases, Computer Networks, Monotheism"," CS392, CS370, CS330, IDE133",12,18
+CS6,6,CS,1,3," Human-Computer Interaction,  Professional Development Seminar, Communication Skills, Islamic Reformative Call","CS351, CS383, COM207, IDE129",12,18
+CS7,7,CS,2,2,"Distributed Systems, Graduation Project 1 "," CS495, ARB105",12,18
+CS8,8,CS,2,2,"  History of Kingdom, Fiqh (Islamic Jurisprudence)"," HST102, JR200",12,18
+CS9,9,CS,0,1,Training,CS362,12,18
+IS1,1,IS,0,4,"  Introduction to Computer Programming, Applied Calculus 1,  The Holy Qur'an (1),  English 1"," CS150, MATH113, ENG140, QUR101",12,18
+IS2,2,IS,0,4," Digital Design,  Cyber Security and Ethics,  Introduction to Probability & Statistics, The Holy Qur?an (2), General Physics"," CS125, CS180, SAT111, QUR151, PHY104;12;18",12,18
+IS3,3,IS,0,4," Discrete Structures 2, Applied Calculus 2, Computer Architecture, The Holy Quran(3)"," CS205, MATH114, CS228, QUR201",12,18
+IS4,4,IS,0,4," Design and Analysis of Algorithms, Software Engineering 1, Operating Systems, Linear Algebra and Differential Equations, The Holy Quran(4), ENG141"," CS216, CS290, CS222, CS227, QUR251",12,18
+IS5,5,IS,0,4," Database Management Systems, Decision Support Systems, Systems Analysis and Design, Marketing Principles ","  IS321, IS350, IS335, MKT301, RELG133",12,18
+IS6,6,IS,1,3," Cybersecurity, Application Development, Financial Principles, History of The Kingdom of Saudi Arabia"," IS380, IS337, FIN300, HST102",12,18
+IS7,7,IS,3,3,"  Electronic Business, Information Security, Business Relationships, The Reform Movement"," IS460, IS492, IS401, RELG129",12,18
+IS8,8,IS,3,2,"Information Systems Strategy and Policy, Enterprise Environment, Electronic Transactions Jurisprudence"," IS410, RELG206",12,18
+IS9,9,IS,3,1,Training,IS398,12,18
+IT1,1,IT,0,4,"  Introduction to Computer Programming, Applied Calculus 1,  The Holy Qur'an (1),  English 1"," CS150, MATH113, ENG140, QUR101",12,18
+IT2,2,IT,0,4," Digital Design,  Cyber Security and Ethics,  Introduction to Probability & Statistics, The Holy Qur?an (2), General Physics"," CS125, CS180, SAT111, QUR151, PHY104;12;18",12,18
+IT3,3,IT,0,4," Discrete Structures 2, Applied Calculus 2, Computer Architecture, The Holy Quran(3)"," CS205, MATH114, CS228, QUR201",12,18
+IT4,4,IT,0,4," Design and Analysis of Algorithms, Software Engineering 1, Operating Systems, Linear Algebra and Differential Equations, The Holy Quran(4), ENG141"," CS216, CS290, CS222, CS227, QUR251",12,18
+IT5,5,IT,0,5," Database Principles, Human-Computer Interaction, Introduction to Probability and Statistics, Technical Writing",,12,18
+IT6,6,IT,1,4," Project Management, Web Systems, Communication Skills, Applied Grammar, Monotheism",,12,18
+IT7,7,IT,2,2," Information SecuritySeminar, Principles of Economics, The Prophet's Biography, Jurisprudence",,12,18
+IT8,8,IT,3,2," Information Technology Governance, Training, Graduation Project 1, Islamic Culture",,12,18
+IT9,9,IT,3,1,Training,IT493,12,18
